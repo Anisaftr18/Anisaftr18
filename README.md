@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Halo semuanya, Saya Anisa Fitrianida L P. ini adalah akun github baruku. saya memiliki passion dibidang web development khususnya pada bidang front end development. untuk melihat beberapa project saya, Anda bisa melihat pada akun ini atau akun pertama saya https://github.com/AnisaFitrianidaLP. Thank You.
+
 [![AnisaFitrianidaLP GitHub stats](https://github-readme-stats.vercel.app/api?username=Anisaftr18)](https://github.com/anuraghazra/github-readme-stats)
 [![Anisaftr18 GitHub stats](https://github-readme-stats.vercel.app/api?username=AnisaFitrianidaLP)](https://github.com/anuraghazra/github-readme-stats)
 
