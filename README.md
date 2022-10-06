@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![AnisaFitrianidaLP GitHub stats](https://github-readme-stats.vercel.app/api?username=AnisaFitrianidaLP)](https://github.com/anuraghazra/github-readme-stats)
+[![AnisaFitrianidaLP GitHub stats](https://github-readme-stats.vercel.app/api?username=Anisaftr18)](https://github.com/anuraghazra/github-readme-stats)
 [![Anisaftr18 GitHub stats](https://github-readme-stats.vercel.app/api?username=AnisaFitrianidaLP)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
