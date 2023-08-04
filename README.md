@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anisa Fitrianida L P</h1>
 <h3 align="center">A Passionate Front-End Developer</h3>
-Halo semuanya, Saya Anisa Fitrianida L P. ini adalah akun github baruku. saya memiliki passion dibidang web development khususnya pada bidang front end development. untuk melihat beberapa project saya, Anda bisa melihat pada akun ini atau akun pertama saya https://github.com/AnisaFitrianidaLP. Thank You.
+Halo semuanya, Saya Anisa Fitrianida L P. ini adalah akun github baruku. saya memiliki passion dibidang web development khususnya pada bidang front end development. untuk melihat beberapa project saya, Anda bisa melihat pada portofolio saya https://anisaftr-myportofolio.netlify.app/. Thank You.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/anisaftr.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anisaftr.18" height="30" width="40" /></a>
